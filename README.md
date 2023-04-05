@@ -1,1 +1,1 @@
-# Minecraft-Yuanchu-Server-Wiki
+# Minecraft原初服务器Wiki
