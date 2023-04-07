@@ -63,7 +63,7 @@
     * 强化二阶
     * 强化三阶
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E9%9C%9C%E9%93%81%E5%89%91.md">霜铁剑<a/>
-  * 奎尔希斯
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A5%8E%E5%B0%94%E5%B8%8C%E6%96%AF.md">奎尔希斯
   * 腐化之源
   * 猩红之源
   * 意志化身
