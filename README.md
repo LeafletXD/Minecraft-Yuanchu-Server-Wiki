@@ -52,7 +52,7 @@
 >发展历史遥远，它是你的第一首选！
 * 剑
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%BE%AE%E9%87%8F%E9%AD%94%E5%8A%9B%E9%95%BF%E5%89%91.md">微量魔力长剑<a/>
-  * 魔力长剑
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E9%AD%94%E5%8A%9B%E9%95%BF%E5%89%91.md">魔力长剑<a/>
   * 征战者
   * 收割之镰
   * 奎西尔
