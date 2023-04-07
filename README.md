@@ -1,5 +1,5 @@
 # Minecraft原初服务器Wiki
-<a href="https://ibb.co/XpM8w1B"><img src="https://i.ibb.co/bLDJfTh/1.jpg" alt="1" border="0"></a>
+<a href="https://ibb.co/g6LS6hY"><img src="https://i.ibb.co/Bw5ywFk/logo.png" alt="logo" border="0"></a>
 
 欢迎来到原初服务器Wiki，你可以在这查询关于原初的所有资料
 >如果你发现有缺失的资料或需要更新的资料，并且**已经确认是缺失的资料**，请在Issues上提交，我会第一时间确认并给予通过。
