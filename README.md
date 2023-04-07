@@ -62,7 +62,7 @@
     * 强化一阶
     * 强化二阶
     * 强化三阶
-  * 霜铁剑
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E9%9C%9C%E9%93%81%E5%89%91.md">霜铁剑<a/>
   * 奎尔希斯
   * 腐化之源
   * 猩红之源
