@@ -57,16 +57,16 @@
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%BE%81%E6%88%98%E8%80%85.md">征战者<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E6%94%B6%E5%89%B2%E4%B9%8B%E9%95%B0.md">收割之镰<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A5%8E%E8%A5%BF%E5%B0%94.md">奎西尔<a/>
-  * 智慧斩刀
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E6%99%BA%E6%85%A7%E6%96%A9%E5%88%80.md">智慧斩刀<a/>
   * 阿瑞斯战刀
     * 强化一阶
     * 强化二阶
     * 强化三阶
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E9%9C%9C%E9%93%81%E5%89%91.md">霜铁剑<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A5%8E%E5%B0%94%E5%B8%8C%E6%96%AF.md">奎尔希斯
-  * 腐化之源
-  * 猩红之源
-  * 意志化身
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E8%85%90%E5%8C%96%E4%B9%8B%E6%BA%90.md">腐化之源<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E7%8C%A9%E7%BA%A2%E4%B9%8B%E6%BA%90.md">猩红之源<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E6%84%8F%E5%BF%97%E5%8C%96%E8%BA%AB.md">意志化身<a/>
   * 哀伤王子之剑
   * 堕落王子之剑
   * 唤野
