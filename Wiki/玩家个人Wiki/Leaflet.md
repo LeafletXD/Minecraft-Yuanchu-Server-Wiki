@@ -1,7 +1,8 @@
 # Leaflet
 >作者：LeafletXD
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HnFfkQP/Leaflet.png" alt="Leaflet" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HnFfkQP/Leaflet.png" alt="Leaflet" border="0"></a><br/>
+*正在水中休息的Leaflet*
 ## 个人资料
 * 性别：男
 * 年龄：16岁
