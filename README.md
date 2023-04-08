@@ -1,5 +1,5 @@
 # Minecraft原初服务器Wiki
-*服务器版本：v2.1.4
+*服务器版本：v2.1.4*
 
 <a href="https://ibb.co/g6LS6hY"><img src="https://i.ibb.co/Bw5ywFk/logo.png" alt="logo" border="0"></a>
 
@@ -50,9 +50,9 @@
   * 阿波罗神殿
 ---
 * 玩家个人Wiki
-  * Leaflet(**只是示范，发挥你的想象力来创造你的wiki！**)
+  * Leaflet *(只是示范，发挥你的想象力来创造你的wiki！)*
   
-（啊哦，还没有人编写呢，你可以前往Issues提交属于你的wiki，审核通过后将会放在该板块）
+*（啊哦，还没有人编写呢，你可以前往Issues提交属于你的wiki，审核通过后将会放在该板块）*
 ## RPG道具
 >打副本怎能没武器和装备呢！
 ### 近战武器
