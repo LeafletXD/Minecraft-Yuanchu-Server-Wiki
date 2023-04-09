@@ -1,5 +1,5 @@
 # Minecraft原初服务器Wiki
-***看就完了！***
+***管你听没听懂，看就完了！***
 
 <a href="https://ibb.co/g6LS6hY"><img src="https://i.ibb.co/Bw5ywFk/logo.png" alt="logo" border="0"></a>
 
