@@ -129,8 +129,8 @@
  <a href="#导航">返回目录<a/>
 >来亿点点小小的挑战！
 ### 主线副本
-* 【一本】达索斯堡
-* 【二本】万神殿
+* <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E4%B8%BB%E7%BA%BF%E5%89%AF%E6%9C%AC/%E3%80%90%E4%B8%80%E6%9C%AC%E3%80%91%E8%BE%BE%E7%B4%A2%E6%96%AF%E5%A0%A1.md">【一本】达索斯堡<a/>
+* <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E4%B8%BB%E7%BA%BF%E5%89%AF%E6%9C%AC/%E3%80%90%E4%BA%8C%E6%9C%AC%E3%80%91%E4%B8%87%E7%A5%9E%E6%AE%BF.md">【二本】万神殿<a/>
 * 【三本】救赎之路
 * 【四本】萨罗彻鲁下层-霜枯洞穴
 * 【五本】萨罗彻鲁上层-萨罗鲁斯
@@ -143,7 +143,7 @@
  <a href="#导航">返回目录<a/>
 >了解每个怪物，成为副本怪物专家！
   * 主线副本
-    * 【一本】达索斯堡
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC%E6%80%AA%E7%89%A9/%E3%80%90%E4%B8%80%E6%9C%AC%E3%80%91%E8%BE%BE%E7%B4%A2%E6%96%AF%E5%A0%A1.md">【一本】达索斯堡<a/>
     * 【二本】万神殿
     * 【三本】救赎之路
     * 【四本】萨罗彻鲁下层-霜枯洞穴
