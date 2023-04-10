@@ -148,5 +148,5 @@
     * 【四本】萨罗彻鲁下层-霜枯洞穴
     * 【五本】萨罗彻鲁上层-萨罗鲁斯
   * 团队副本
-    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/edit/main/Wiki/%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4/%E9%95%9C%E5%83%8F%E5%A4%A7%E5%8E%85.md">镜像大厅<a/> 
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4/%E9%95%9C%E5%83%8F%E5%A4%A7%E5%8E%85.md">镜像大厅<a/> 
     * 阿波罗神殿
