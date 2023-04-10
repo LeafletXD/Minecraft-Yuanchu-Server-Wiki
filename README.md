@@ -143,7 +143,7 @@
 >了解每个怪物，成为副本怪物专家！
   * 主线副本
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4/%E3%80%90%E4%B8%80%E6%9C%AC%E3%80%91%E8%BE%BE%E7%B4%A2%E6%96%AF%E5%A0%A1.md">【一本】达索斯堡<a/>
-    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC%E6%80%AA%E7%89%A9/%E3%80%90%E4%BA%8C%E6%9C%AC%E3%80%91%E4%B8%87%E7%A5%9E%E6%AE%BF.md">【二本】万神殿<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4/%E3%80%90%E4%BA%8C%E6%9C%AC%E3%80%91%E4%B8%87%E7%A5%9E%E6%AE%BF.md">【二本】万神殿<a/>
     * 【三本】救赎之路
     * 【四本】萨罗彻鲁下层-霜枯洞穴
     * 【五本】萨罗彻鲁上层-萨罗鲁斯
