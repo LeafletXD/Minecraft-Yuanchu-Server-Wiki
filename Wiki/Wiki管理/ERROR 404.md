@@ -1,6 +1,8 @@
 # Whoops,ERROR 404!
 ***啊哦，Wiki页面不见了，我们对此十分抱歉！:(***
 
+<a href="https://ibb.co/Cn5jPZv"><img src="https://i.ibb.co/fCY3D5t/404.png" alt="404" border="0"></a>
+
 **原因：**
 1. 可能服务器大面积更新有波及到该Wiki页面，所以重写该页面！
 2. 可能该Wiki页面有争议的地方，所以关闭该页面！
