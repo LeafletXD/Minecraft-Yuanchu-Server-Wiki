@@ -130,7 +130,7 @@
 ### 主线副本
 * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E4%B8%BB%E7%BA%BF%E5%89%AF%E6%9C%AC/%E3%80%90%E4%B8%80%E6%9C%AC%E3%80%91%E8%BE%BE%E7%B4%A2%E6%96%AF%E5%A0%A1.md">【一本】达索斯堡<a/>
 * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E4%B8%BB%E7%BA%BF%E5%89%AF%E6%9C%AC/%E3%80%90%E4%BA%8C%E6%9C%AC%E3%80%91%E4%B8%87%E7%A5%9E%E6%AE%BF.md">【二本】万神殿<a/>
-    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E4%B8%BB%E7%BA%BF%E5%89%AF%E6%9C%AC/%E3%80%90%E4%B8%89%E6%9C%AC%E3%80%91%E6%95%91%E8%B5%8E%E4%B9%8B%E8%B7%AF.md">【三本】救赎之路<a/>
+* <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E4%B8%BB%E7%BA%BF%E5%89%AF%E6%9C%AC/%E3%80%90%E4%B8%89%E6%9C%AC%E3%80%91%E6%95%91%E8%B5%8E%E4%B9%8B%E8%B7%AF.md">【三本】救赎之路<a/>
 * 【四本】萨罗彻鲁下层-霜枯洞穴
 * 【五本】萨罗彻鲁上层-萨罗鲁斯
 ### 团队副本
