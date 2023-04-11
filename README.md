@@ -69,7 +69,7 @@
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E7%8C%A9%E7%BA%A2%E4%B9%8B%E6%BA%90.md">猩红之源<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E6%84%8F%E5%BF%97%E5%8C%96%E8%BA%AB.md">意志化身<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%93%80%E4%BC%A4%E7%8E%8B%E5%AD%90%E4%B9%8B%E5%89%91.md">哀伤王子之剑<a/>
-  * 堕落王子之剑
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A0%95%E8%90%BD%E7%8E%8B%E5%AD%90%E4%B9%8B%E5%89%91.md">堕落王子之剑<a/>
   * 唤野
     * 半神·神眼
     * 黎明·神眼
