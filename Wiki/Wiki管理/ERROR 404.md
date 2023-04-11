@@ -3,7 +3,11 @@
 
 <a href="https://ibb.co/Cn5jPZv"><img src="https://i.ibb.co/fCY3D5t/404.png" alt="404" border="0"></a>
 
-**原因：**
+　／l、 <br/>
+（Q- Q ７ <br/>
+ 　l、 ~ヽ<br/>
+　じしf_, )ノ​<br/>
+**可能的原因：**
 1. 可能服务器大面积更新有波及到该Wiki页面，所以重写该页面！
 2. 可能该Wiki页面有争议的地方，所以关闭该页面！
 3. 可能该Wiki页面出现故障或损坏，所以封锁该页面！
