@@ -92,9 +92,9 @@
   * 最终清算
 * 矛
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E7%9F%9B/%E6%B5%B7%E7%A5%9E%E7%9F%9B.md">海神矛<a/>
-    * 强化一阶
-    * 强化二阶
-    * 强化三阶
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E7%9F%9B/%E6%B5%B7%E7%A5%9E%E7%9F%9B.md#%E5%BC%BA%E5%8C%96">强化一阶<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E7%9F%9B/%E6%B5%B7%E7%A5%9E%E7%9F%9B.md#%E5%BC%BA%E5%8C%96">强化二阶<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E7%9F%9B/%E6%B5%B7%E7%A5%9E%E7%9F%9B.md#%E5%BC%BA%E5%8C%96">强化三阶<a/>
 * 锹
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E9%94%B9/%E5%8E%84%E7%B1%B3%E5%BF%85%E4%BF%AE%E6%96%AF%E7%9A%84%E9%81%97%E5%BF%98.md">厄比米修斯的遗忘<a/>
 ---
