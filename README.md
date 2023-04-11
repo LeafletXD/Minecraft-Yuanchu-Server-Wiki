@@ -91,7 +91,7 @@
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E6%96%A7/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B%E6%88%98%E9%94%A4.md">白银之手战锤<a/>
   * 最终清算
 * 矛
-  * 海神矛
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E7%9F%9B/%E6%B5%B7%E7%A5%9E%E7%9F%9B.md">海神矛<a/>
     * 强化一阶
     * 强化二阶
     * 强化三阶
