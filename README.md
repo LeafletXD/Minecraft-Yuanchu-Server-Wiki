@@ -96,7 +96,7 @@
     * 强化二阶
     * 强化三阶
 * 锹
-  * 厄米必修斯的遗忘
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E9%94%B9/%E5%8E%84%E7%B1%B3%E5%BF%85%E4%BF%AE%E6%96%AF%E7%9A%84%E9%81%97%E5%BF%98.md">厄比米修斯的遗忘<a/>
 ---
 ### 远程武器
  <a href="#导航">返回目录<a/>
