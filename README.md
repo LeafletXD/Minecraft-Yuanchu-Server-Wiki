@@ -73,14 +73,14 @@
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md#%E5%BC%BA%E5%8C%96">半神·弑神刀<a/>
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md#%E5%BC%BA%E5%8C%96">黎明·弑神刀<a/>
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md#%E5%BC%BA%E5%8C%96">诸神·弑神刀<a/>
-  * 太阳神处罚
-    * 半神·光辉
-    * 黎明·光辉
-    * 诸神·光辉
-  * 天击
-    * 半神·天击 
-    * 黎明·天击
-    * 诸神·天击
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%AA%E9%98%B3%E7%A5%9E%E5%A4%84%E7%BD%9A.md">太阳神触发<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%AA%E9%98%B3%E7%A5%9E%E5%A4%84%E7%BD%9A.md#%E5%BC%BA%E5%8C%96">半神·光辉<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%AA%E9%98%B3%E7%A5%9E%E5%A4%84%E7%BD%9A.md#%E5%BC%BA%E5%8C%96">黎明·光辉<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%AA%E9%98%B3%E7%A5%9E%E5%A4%84%E7%BD%9A.md#%E5%BC%BA%E5%8C%96">诸神·光辉<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%A9%E5%87%BB.md">天击<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%A9%E5%87%BB.md#%E5%BC%BA%E5%8C%96">半神·天击<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%A9%E5%87%BB.md#%E5%BC%BA%E5%8C%96">黎明·天击<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A4%A9%E5%87%BB.md#%E5%BC%BA%E5%8C%96">诸神·天击<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E8%AF%B8%E7%A5%9E%E4%B9%8B%E6%80%92.md">诸神之怒<a/>
 * 斧
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E6%96%A7/%E7%99%BD%E9%93%B6%E4%B9%8B%E6%89%8B%E6%88%98%E9%94%A4.md">白银之手战锤<a/>
