@@ -35,13 +35,9 @@
     * 道具
     * 增益物
 ---
-* 副本
-  * 主线副本
-  * 团队副本
+* <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki#%E5%89%AF%E6%9C%AC">副本攻略<a/>
 ---
-* 副本怪物
-  * 主线副本
-  * 团队副本
+* <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki#%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4">生物图鉴<a/>
 ---
 * 玩家个人Wiki
   * Leaflet *(只是示范，发挥你的想象力来创造你的wiki！)*
