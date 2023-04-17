@@ -65,14 +65,14 @@
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E6%84%8F%E5%BF%97%E5%8C%96%E8%BA%AB.md">意志化身<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%93%80%E4%BC%A4%E7%8E%8B%E5%AD%90%E4%B9%8B%E5%89%91.md">哀伤王子之剑<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%A0%95%E8%90%BD%E7%8E%8B%E5%AD%90%E4%B9%8B%E5%89%91.md">堕落王子之剑<a/>
-  * 唤野
-    * 半神·神眼
-    * 黎明·神眼
-    * 诸神·神眼
-  * 利战
-    * 半神·杀弑刃
-    * 黎明·杀弑刃
-    * 诸神·杀弑刃
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%94%A4%E9%87%8E.md">唤野<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%94%A4%E9%87%8E.md#%E5%BC%BA%E5%8C%96">半神·神眼<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%94%A4%E9%87%8E.md#%E5%BC%BA%E5%8C%96">黎明·神眼<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%94%A4%E9%87%8E.md#%E5%BC%BA%E5%8C%96">诸神·神眼<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md">利战<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md#%E5%BC%BA%E5%8C%96">半神·弑神刀<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md#%E5%BC%BA%E5%8C%96">黎明·弑神刀<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%91%E6%88%98%E6%AD%A6%E5%99%A8/%E5%89%91/%E5%88%A9%E6%88%98.md#%E5%BC%BA%E5%8C%96">诸神·弑神刀<a/>
   * 太阳神处罚
     * 半神·光辉
     * 黎明·光辉
