@@ -103,10 +103,10 @@
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">黎明·逐日<a/>
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">诸神·逐日<a/>
 * 法杖
-  * 肯瑞托初学者法杖
-  * 肯瑞托进阶法杖
-  * 肯瑞托职业法杖
-  * 奥术战争法杖
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E8%82%AF%E7%91%9E%E6%89%98%E5%88%9D%E5%AD%A6%E8%80%85%E6%B3%95%E6%9D%96.md">肯瑞托初学者法杖<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E8%82%AF%E7%91%9E%E6%89%98%E8%BF%9B%E9%98%B6%E6%B3%95%E6%9D%96.md">肯瑞托进阶法杖<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E8%82%AF%E7%91%9E%E6%89%98%E8%81%8C%E4%B8%9A%E6%B3%95%E6%9D%96.md">肯瑞托职业法杖<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E5%A5%A5%E6%9C%AF%E6%88%98%E4%BA%89%E6%B3%95%E6%9D%96.md">奥术战争法杖<a/>
   * 塔罗吉之杖
   * 精灵学者法杖
   * 精灵烈焰法杖
