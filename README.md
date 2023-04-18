@@ -97,11 +97,11 @@
  <a href="#导航">返回目录<a/>
 >远程攻击就是舒服，根本打不到，诶~
 * 弓
-  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%95%91%E8%B5%8E%E4%B9%8B%E7%BF%BC.md">救赎之翼<a/>
-  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%87%86%E6%97%A5.md">准日<a/>
-    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">半神·逐日<a/>
-    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">黎明·逐日<a/>
-    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">诸神·逐日<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E6%95%91%E8%B5%8E%E4%B9%8B%E7%BF%BC.md">救赎之翼<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E5%87%86%E6%97%A5.md">准日<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">半神·逐日<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">黎明·逐日<a/>
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E5%BC%93/%E5%87%86%E6%97%A5.md#%E5%BC%BA%E5%8C%96">诸神·逐日<a/>
 * 法杖
   * 肯瑞托初学者法杖
   * 肯瑞托进阶法杖
