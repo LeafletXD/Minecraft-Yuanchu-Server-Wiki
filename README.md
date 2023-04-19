@@ -108,7 +108,7 @@
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E8%82%AF%E7%91%9E%E6%89%98%E8%81%8C%E4%B8%9A%E6%B3%95%E6%9D%96.md">肯瑞托职业法杖<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E5%A5%A5%E6%9C%AF%E6%88%98%E4%BA%89%E6%B3%95%E6%9D%96.md">奥术战争法杖<a/>
   * 塔罗吉之杖
-  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E7%B2%BE%E7%81%B5%E5%AD%A6%E8%80%85%E6%B3%95%E6%9D%96.md">精灵学者法杖1<a/>
+  * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E7%B2%BE%E7%81%B5%E5%AD%A6%E8%80%85%E6%B3%95%E6%9D%96.md">精灵学者法杖<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E7%B2%BE%E7%81%B5%E7%83%88%E7%84%B0%E6%B3%95%E6%9D%96.md">精灵烈焰法杖<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E7%B2%BE%E7%81%B5%E5%87%80%E5%8C%96%E4%B9%8B%E4%BB%97.md">精灵净化之仗<a/>
   * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/RPG%E9%81%93%E5%85%B7/%E8%BF%9C%E7%A8%8B%E6%AD%A6%E5%99%A8/%E6%B3%95%E6%9D%96/%E9%BE%99%E6%81%AF%E6%B3%95%E6%9D%96.md">龙息法杖<a/>
