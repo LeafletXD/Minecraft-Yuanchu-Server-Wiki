@@ -2,7 +2,7 @@
 
 <a href="https://ibb.co/g6LS6hY"><img src="https://i.ibb.co/Bw5ywFk/logo.png" alt="logo" border="0"></a>
 
-*服务器版本：v2.1.4*<br/>
+*服务器版本：v2.1.58*<br/>
 欢迎来到原初服务器Wiki，你可以在这查询关于原初的所有资料
 >如果你发现有缺失的资料或需要更新的资料，并且**已经确认是缺失的资料**，请在Issues上提交，我会第一时间确认并给予通过。
 
@@ -36,10 +36,15 @@
     * 增益物
 ---
 * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki#%E5%89%AF%E6%9C%AC">副本攻略<a/>
+  * 主线副本
+  * 团队副本
 ---
 * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki#%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4">生物图鉴<a/>
+  * 主线副本
+  * 团队副本
 ---
 * 更新日志
+  * v2.0
 ---
 * 玩家个人Wiki
   * Leaflet *(只是示范，发挥你的想象力来创造你的wiki！)*
