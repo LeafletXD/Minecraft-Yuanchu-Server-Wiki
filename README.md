@@ -140,7 +140,7 @@
   * 团队副本
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E5%9B%A2%E9%98%9F%E5%89%AF%E6%9C%AC/%E9%95%9C%E5%83%8F%E5%A4%A7%E5%8E%85.md">镜像大厅<a/> 
     * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E5%9B%A2%E9%98%9F%E5%89%AF%E6%9C%AC/%E9%98%BF%E6%B3%A2%E7%BD%97%E7%A5%9E%E6%AE%BF.md">阿波罗神殿<a/> 
-    * 末地之战
+    * <a href="https://github.com/LeafletXD/Minecraft-Yuanchu-Server-Wiki/blob/main/Wiki/%E5%89%AF%E6%9C%AC/%E5%9B%A2%E9%98%9F%E5%89%AF%E6%9C%AC/%E6%9C%AB%E5%9C%B0%E4%B9%8B%E6%88%98.md">末地之战<a/> 
 ---
 ## 生物图鉴
  <a href="#导航">返回目录<a/>
